@@ -1,2 +1,2 @@
 # Unique Password Generator
- It tgenerate the password uniquely in a seconds.
+ It generate the password uniquely in a seconds.
